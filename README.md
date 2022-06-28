@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## <div align="center">I'm Heiko, a computer engineering 👨‍💻 working on it since 2020 🚀</div>  
+### <div align="center">I'm Heiko, a computer engineering 👨‍💻 working on it since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [fagor professional](https://www.fagorprofessional.com/en/)  
