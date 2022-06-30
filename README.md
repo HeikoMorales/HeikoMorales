@@ -1,7 +1,7 @@
 ### <div align="center">I'm Heiko, a computer engineering 👨‍💻 working on it since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [fagor professional](https://www.fagorprofessional.com/en/)  
+- 🔭 I’m currently working on [Fagor Professional](https://www.fagorprofessional.com/en/)  
   
 
 - 🌱 I’m currently learning backend technology  
