@@ -1,13 +1,13 @@
 ### <div align="center">I'm Heiko, a computer engineering 👨‍💻 working on it since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Fagor Professional](https://www.fagorprofessional.com/en/)  
+- 🔭 I’m currently working on [MAIER](https://www.maier.es/)  
   
 
 - 🌱 I’m currently learning backend technology  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces obviously  
   
 
 <br/>  
